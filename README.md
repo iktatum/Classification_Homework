@@ -1,4 +1,6 @@
-## Classification_Homework
+# Classification_Homework
+
+## Resampling 
 
 > Which model had the best balanced accuracy score?
 >
