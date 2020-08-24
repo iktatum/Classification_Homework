@@ -25,5 +25,5 @@
 - total_rec_prncp
 - total_rec_int
 - last_pymnt_amnt'
--
--
+
+
